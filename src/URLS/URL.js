@@ -1,0 +1,1 @@
+export const ProductURL = 'https://dummyjson.com/products?limit=500'
